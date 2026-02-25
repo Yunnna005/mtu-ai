@@ -1,0 +1,5 @@
+id,airport_ref,airport_ident,length_ft,width_ft,surface,lighted,closed,le_ident,le_latitude_deg,le_longitude_deg,le_elevation_ft,le_heading_degT,le_displaced_threshold_ft,he_ident,he_latitude_deg,he_longitude_deg,he_elevation_ft,he_heading_degT,he_displaced_threshold_ft
+356512,2533,EIDW,10203.0,148.0,CON,1,0,10L,53.43716,-6.28062,235.0,97.0,,28R,53.4352,-6.24496,213.0,278.0,
+235634,2533,EIDW,8652.0,148.0,ASPH,1,0,10R,53.42243,-6.29007,242.0,95.0,,28L,53.4203,-6.25058,202.0,275.0,
+235635,2533,EIDW,4393.0,200.0,ASP,0,1,11,53.43659973144531,-6.262269973754883,217.0,105.0,279.0,29,53.43339920043945,-6.242809772491455,216.0,285.0,
+235636,2533,EIDW,6798.0,148.0,ASP,1,0,16,53.437,-6.26198,217.0,157.0,,34,53.419899,-6.24959,202.0,337.0,
