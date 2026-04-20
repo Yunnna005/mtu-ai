@@ -1,2 +1,0 @@
-num of airplanes
-find the best way to direct all airplanes to minimaze risk
